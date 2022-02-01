@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CSE180041108_Lab02</string>
+    <string name="username">Phone, email or username</string>
+    <string name="password">Password</string>
+    <string name="sign_in_header1">Let\'s sign you in.</string>
+    <string name="sign_in_header2">Welcome back.\nYou\'ve been missed!</string>
+    <string name="loginButtonText">Sign In</string>
+    <string name="activity2_text1">See your wallet\n sky-rocket.</string>
+    <string name="activity2_text2">Invest in the best\ncrypto-trading firm today!</string>
+    <string name="next_text">Next</string>
+    <string name="activity3_text1">Fill your wallet\nwith NFTs</string>
+    <string name="activity3_text2">We await your presence!</string>
+</resources>
